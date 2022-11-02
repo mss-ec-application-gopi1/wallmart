@@ -1,1 +1,1 @@
-Hello good morning welcome to mithun technolgy
+Hello good morning welcome to mithun technology

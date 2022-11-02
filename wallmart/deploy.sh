@@ -1,2 +1,2 @@
 Hello im updating
-this file contains deployment script
+thius file contains deployment script
